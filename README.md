@@ -1,4 +1,4 @@
-# headless_gulp
+# tailwind_gulp
 
 A quick and dirty set up to give Tailwind a try. Uses Gulp and Pug. 
 
